@@ -6,6 +6,7 @@
 
 <p><h1 align="center">281.小区物业管理系统</h1></p>
 
+演示视频:[https://www.bilibili.com/video/BV1hu4y1n7WF/?vd_source=70cee780bf953af081327c6037812e37](https://www.bilibili.com/video/BV1hu4y1n7WF/?vd_source=70cee780bf953af081327c6037812e37)
 
 <p align="center">
 	<img src="https://img.shields.io/badge/jdk-1.8-orange.svg"/>
